@@ -1,0 +1,6 @@
+@CollateralPledgeAgent_HostAddress = http://localhost:5194
+
+GET {{CollateralPledgeAgent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
